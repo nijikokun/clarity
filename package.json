@@ -1,0 +1,21 @@
+{
+  "name": "Clarity",
+  "version": "0.0.1",
+  "description": "Clarity Theme for Gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Nijikokun/clarity.git"
+  },
+  "author": "Nijiko Yonskai",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-less": "^0.11.0",
+    "grunt-contrib-requirejs": "^0.4.3"
+  }
+}
