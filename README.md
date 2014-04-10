@@ -2,6 +2,8 @@
 
 Clarity theme for Gitbook designed for The Zen Approach
 
+![Clarity](http://puu.sh/82XzM.jpg)
+
 # Usage
 
 1. Install [Gitbook](https://github.com/GitbookIO/gitbook).
