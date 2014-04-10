@@ -7,8 +7,8 @@ Clarity theme for Gitbook designed for The Zen Approach
 # Usage
 
 1. Install [Gitbook](https://github.com/GitbookIO/gitbook).
-2. Clone this repository
-3. Run `npm install && grunt build`
+2. `npm install gitbook-theme-clarity`
+3. `npm install && npm build`
 
 Now when building or serving gitbook you can reference `/path/to/clarity/lib/` as your theme.
 

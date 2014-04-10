@@ -1,10 +1,11 @@
 {
-  "name": "Clarity",
+  "name": "gitbook-theme-clarity",
   "version": "0.0.1",
   "description": "Clarity Theme for Gitbook",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "grunt build",
+    "make": "grunt build"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,14 @@
     "grunt-cli": "~0.1.13",
     "grunt-contrib-less": "^0.11.0",
     "grunt-contrib-requirejs": "^0.4.3"
-  }
+  },
+  "keywords": [
+    "clarity",
+    "theme",
+    "gitbook",
+    "zen",
+    "approach",
+    "book",
+    "git"
+  ]
 }
