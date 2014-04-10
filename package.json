@@ -1,6 +1,6 @@
 {
   "name": "gitbook-theme-clarity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Clarity Theme for Gitbook",
   "main": "index.js",
   "scripts": {
